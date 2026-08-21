@@ -43,11 +43,11 @@
 
 ### `$ cat about.md`
 
-Final-year B.Tech Computer Science student building at the intersection of **cybersecurity and agentic AI**, with hands-on work spanning threat-research automation, biomedical signal processing, and secure full-stack systems. Currently interning at Page Industries (Jockey) on SAP S/4HANA procurement workflows, while sharpening security fundamentals on TryHackMe and shipping freelance products end-to-end.
+Final-year B.Tech Computer Science student building at the intersection of **cybersecurity and agentic AI**, with hands-on work spanning threat-research automation, biomedical signal processing, and secure full-stack systems. Completed an internship at Page Industries (Jockey) working on SAP S/4HANA procurement workflows, and currently sharpening security fundamentals on TryHackMe while shipping freelance products end-to-end.
 
 ```bash
 ROLE     : Final Year B.Tech CSE Student (Fresher)
-EXP      : 7th Semester // Intern @ Page Industries (Jockey)
+EXP      : 7th Semester // Ex-Intern @ Page Industries (Jockey)
 DOMAIN   : Cybersecurity | Agentic AI | Full-Stack Development
 STACK    : Python, C++, Java, FastAPI, React, PostgreSQL, Docker
 OPEN_TO  : Software Engineering | Cybersecurity | Sports Tech | Tech & Non-Tech Roles
@@ -142,7 +142,7 @@ Responsive web portal for a tennis academy supporting player, coach, and adminis
 
 ### `$ tail -f experience.log`
 
-**05/2026 – Present | Bengaluru**
+**25 May 2026 – 25 Aug 2026 | Bengaluru**
 **Intern — Page Industries (Jockey)**
 _SAP S/4HANA Procurement (Material Management)_
 - Validated SAP ECC → S/4HANA migration workflows and resolved defects for a seamless transition
