@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Generate 3D contribution skyline
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: Avni2905
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
